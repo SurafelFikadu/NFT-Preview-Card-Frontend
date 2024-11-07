@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: "Outfit", sans-serif;
+}
+
+.relative:hover img {
+    opacity: 0.8;
+    transition: 0.3s;
+}
